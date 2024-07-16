@@ -1,0 +1,69 @@
+# **Library Management System**
+
+## **Welcome to the Library Management System**
+
+This application will act as the Database for a library..
+
+## **How it Works:**
+
+When the application starts you will be met with a menu screen
+displaying all the available options. Users will follow the given 
+prompts to and provided appropriate answers. The application will  
+give an organized list of tasks to the user if prompted.
+
+### Getting Started: ###
+You will be greeted with the following menu.
+
+**Welcome to the Library Management System**
+1. Book Operations
+2. User Operations
+3. Author Operations
+4. Genre Operations
+5. Quit
+
+I would like to:
+
+- Choose the appropriate numerical input for what you would like the application to do.
+
+- Follow the prompts based off of your initial input.
+
+    *ex. I would like to 1* 
+
+- You will be brought to book operations, where you will be given a second menu
+
+**Welcome to Book Operations**
+1. Add a new book
+2. Borrow a book
+3. Return a book
+4. Search for a book
+5. Display all books
+6. Back to main menu
+
+
+- Follow the prompts to complete the requested action
+- Once the appropriate action has been completed the application will display a message to confirm.
+
+    *ex. Book,added to the library*
+
+- Once all actions have been completed the user can return to the main menu to preform other actions within the Library.
+
+    *ex. I would like to 6* 
+
+### Features: ###
+- Books, Users, Authors and Genres are added directly to your database for ease of use.
+
+
+- Built in error system that will prompt the user to correct the action, with an error explanation. 
+
+    *ex. "Error:cannot access local variable 'author' where it is not associated with a value."*
+
+- Tracks books, authors, genres, and users to allow the user to check out a book, search for a specific book and return a book. 
+
+- Allows library admin staff to search for users and show what books the user has check out. 
+
+
+
+*Library Management System application is a product of FRD APP productions. For any comments, questions or concerns please reach out to our corporate office.*
+*Frank Fix It*
+*3333 Broken App Lane*
+*Cyber Space 0100110*
